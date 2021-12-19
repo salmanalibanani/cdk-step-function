@@ -2,7 +2,7 @@
   "name": "infra",
   "version": "0.1.0",
   "bin": {
-    "infra": "bin/infra.js"
+    "infra": "bin/account-information-infrastructure.js"
   },
   "scripts": {
     "build": "tsc --noEmit",
